@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/smooth-scroll@16/dist/smooth-scroll.polyfills.min.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css"
+/>
+    
+    <title>SneekLab</title>
+</head>
+<body>
+
+ <section class="bg-[#cecece] h-[120vh] pt-4" id="home">
+
+        <div class="bg-white flex justify-evenly p-[1rem] fixed left-0 right-0 z-[100]">
+            <div class="">
+
+                <div class="flex items-center ">
+                 <i class="fas fa-shopping-bag"></i> 
+                <h1 class="text-lg"><a href="index.html">SneekLab</a></h1>
+                </div>
+
+            </div>
+            
+            <div class="div-swiper-contain-js">
+                <nav>
+                    <ul class="flex">
+                        <li class="ml-6 cursor-pointer relative active"><a href="#home">home</a></li>
+                        <li class="ml-6 cursor-pointer relative"><a href="#products">products</a></li>
+                        <li class="ml-6 cursor-pointer relative"><a href="#services">services</a></li>
+                        <li class="ml-6 cursor-pointer relative"><a href="#about">about us</a></li>
+                        <li class="ml-6 cursor-pointer relative"><a href="#news">news</a></li>
+                        <li class="ml-6 cursor-pointer relative"><a href="#contact">contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div class="flex items-center">
+                <input type="text" placeholder="search products" class="border-b outline-none input-element-html">
+                  <i class="fas fa-search ml-6 cursor-pointer search-button-html"></i>
+                  <i class="fas fa-user ml-6"></i>
+                  <div class="relative"><a href="cart.html"><i class="fas fa-shopping-cart ml-6"></i></a>
+                  <div class="absolute bottom-4 right-0 text-red-500 update-cart-quantity-icon">0</div>
+                </div>
+                <button class="border-b outline-none ml-6"><a href="login.html">login</a></button>    
+                <button class="border-b outline-none ml-6"><a href="signup.html">signup</a></button>
+               <button class="border-b outline-none ml-6"><a href="admin.html">admin</a></button>    
+        </div>
+        </div>
+
+        <div class="swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper"></div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
+
+</div>
+</section>
+<section>
+    <div class="grid grid-cols-4 pt-8 px-4 gap-4 products-container-html ">
+
+ </div>
+</section>
+<script type="module" src="scripts/scripts.js"></script>
+</body>
+</html>

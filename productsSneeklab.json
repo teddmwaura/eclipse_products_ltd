@@ -1,0 +1,177 @@
+
+
+[
+  {
+    "productId": "1234AFDTGJDU5",
+    "productName": "engineering & construction",
+    "productImage": "https://wallpapers.com/images/hd/civil-engineering-background-ml0c5przdvbv4gme.jpg",
+    "productColor": [
+      {
+        "name": "civil engineering",
+        "productImage": "https://img.magnific.com/premium-photo/building-construction-engineering-with-double-exposure-graphic-design-construction-workers-with-civil-equipment-technology-2d-illustration-white-background-ai-generated_497837-27688.jpg?semt=ais_hybrid&w=740&q=80",
+        "productPrice": 0
+      },
+            {
+        "name": "building works",
+        "productImage": "https://png.pngtree.com/thumb_back/fh260/background/20240611/pngtree-construction-company-plans-a-sketch-of-new-building-image_15747470.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "mechanical works",
+        "productImage": "https://static.vecteezy.com/system/resources/previews/055/957/491/large_2x/collection-of-mechanical-components-and-tools-arranged-neatly-on-a-white-background-for-repair-and-maintenance-work-photo.jpg",
+        "productPrice": 0
+      }
+      ,
+            {
+        "name": "renovations & upgrading",
+        "productImage": "https://static.vecteezy.com/system/resources/previews/065/678/517/non_2x/house-renovation-tools-and-model-home-on-white-background-free-photo.jpeg",
+        "productPrice": 0
+      }
+      ,
+            {
+        "name": "aluminium partitioning",
+        "productImage": "https://image.made-in-china.com/2f0j00IokVMQNnLOGc/Dimmable-Double-Tempered-Glass-Partition-Wall-Black-White-Aluminium-Profile.jpg",
+       "productPrice": 0
+      }
+      ,
+            {
+        "name": "fabrication works",
+        "productImage": "https://t3.ftcdn.net/jpg/18/74/31/08/360_F_1874310833_dCsqQ6sXmeuJAdLHO62ejK16g05rntsE.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "arc & gas welding",
+        "productImage": "https://t4.ftcdn.net/jpg/20/10/73/37/360_F_2010733765_HMuaKykJHq0UhZvzGuWbJyvcROhffm1D.jpg",
+        "productPrice": 0
+      }
+    ]
+  },
+    {
+    "productId": "666ADGHB7543",
+    "productName": "Automotive Services",
+    "productImage": "https://img.freepik.com/premium-photo/car-service-white-background-isolated-3d-illustration_356060-3354.jpg",
+    "productColor": [
+      {
+        "name": "vehicle maintainance & repair",
+        "productImage": "https://img.pikbest.com/wp/202347/car-maintenance-portrayed-through-a-3d-isolated-white-background-image_9759688.jpg!sw800",
+        "productPrice": 0
+      },
+            {
+        "name": "wheel alignment",
+        "productImage": "https://media.istockphoto.com/id/2233838190/vector/wheel-alignment-icons-symbol-of-tire-fitting-and-repair-vector-illustration.jpg?s=612x612&w=0&k=20&c=Uo_aN_L8_XPZbBkBUfsDgk4YuLUUUTM4E5dsDPZIkYw=",
+        "productPrice": 0
+      },
+            {
+        "name": "tyre balancing",
+        "productImage": "https://thumbs.dreamstime.com/b/wheel-balancing-machine-car-wheels-d-rendering-isolated-white-background-295749382.jpg",
+        "productPrice": 0
+      }
+      ,
+            {
+        "name": "valcanization",
+        "productImage": "https://thumbs.dreamstime.com/b/bus-truck-wheel-stock-vector-illustration-bus-truck-wheel-stock-vector-illustration-isolated-white-background-132858083.jpg",
+        "productPrice": 0
+      }
+      ,
+            {
+        "name": "spray painting",
+        "productImage": "https://thumbs.dreamstime.com/b/row-many-spray-can-colorful-color-front-ainbow-holi-paint-powder-explosion-isolated-white-background-industry-diy-174889529.jpg",
+        "productPrice": 0
+      }
+    ]
+  },
+    {
+    "productId": "678ABCD908",
+    "productName": "environmental services",
+    "productImage": "https://static.vecteezy.com/system/resources/thumbnails/074/426/502/small/environmental-protection-icons-green-energy-nature-symbols-vector.jpg",
+    "productColor": [
+      {
+        "name": "petroleum waste handling",
+        "productImage": "https://www.shutterstock.com/image-illustration/black-oil-barrel-crude-tank-600nw-2767521473.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "waste oil handling",
+        "productImage": "https://media.istockphoto.com/id/1866117196/photo/old-engine-oil-bottle-old-black-lubricant-spilled-used-car-engine.jpg?s=612x612&w=0&k=20&c=Dw-mp4b9Rah82qN9d_Yw5sROYWLr9fXSwviWFBKLMuE=",
+        "productPrice": 0
+      },
+            {
+        "name": "Contaminated soil remediation",
+        "productImage": "https://media.gettyimages.com/id/2235272349/photo/researcher-collecting-soil-sample-in-a-test-tube.jpg?s=612x612&w=gi&k=20&c=IQl3zCONbgK7_ochRWVj5ipyMxzillKX4zQ6D9y5N4A=",
+        "productPrice": 0
+      }
+      ,
+            {
+        "name": "Landscaping",
+        "productImage": "https://media.istockphoto.com/id/1083825460/photo/workers-lay-paving-tiles-construction-of-brick-pavement-close-up-architecture-background.jpg?s=612x612&w=0&k=20&c=BR0UpuPW4-3MXH1zQVcVN5163hHon4y25x3Yj8lFdeU=",
+        "productPrice": 0
+      }
+      ,
+            {
+        "name": "Tree nurseries",
+        "productImage": "https://thumbs.dreamstime.com/b/planting-trees-silver-coin-hands-two-completely-separated-white-background-153528987.jpg",
+        "productPrice": 0
+      }
+
+    ]
+  },
+    {
+    "productId": "4567ZFGDV789",
+    "productName": "Consulting services",
+    "productImage": "https://img.freepik.com/premium-vector/vector-word-cloud-background-concept-consulting-business-service-solution_921033-244.jpg",
+    "productColor": [
+      {
+        "name": "Guidance & counseling",
+        "productImage": "https://static.vecteezy.com/system/resources/previews/010/718/051/non_2x/guidance-counselor-for-students-parents-illustration-concept-on-white-background-vector.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "Property acquisition consultation",
+        "productImage": "https://img.freepik.com/premium-vector/vector-design-house-deal-icon-style_1134108-82943.jpg",
+       "productPrice": 0
+      }
+      ,
+            {
+        "name": "Safety advisory services",
+        "productImage": "https://img.freepik.com/premium-vector/word-cloud-background-concept-safety-management-strategic-consulting-diagram-effective-business-inspection-vector-illustration_616200-3513.jpg",
+        "productPrice": 0
+      }
+
+    ]
+  },
+    {
+    "productId": "908THYSH021",
+    "productName": "products",
+    "productImage": "https://www.shutterstock.com/image-illustration/construction-materials-tools-isolated-on-600nw-2353520503.jpg",
+    "productColor": [
+      {
+        "name": "waterproof cement",
+        "productImage": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/35/4063723/1.jpg?7762",
+        "productPrice": 0
+      },
+            {
+        "name": "grout",
+        "productImage": "https://i0.wp.com/saimosaicart.com/wp-content/uploads/2020/05/white.jpeg",
+        "productPrice": 0
+      },
+            {
+        "name": "fillers",
+        "productImage": "https://img.freepik.com/premium-photo/white-textured-background-filler-paste_941600-20622.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "paints",
+        "productImage": "https://thumbs.dreamstime.com/b/construction-helmet-paint-roller-brush-bucket-isolated-white-background-representing-painting-renovation-tools-410676311.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "lime",
+        "productImage": "https://cdn.slidesharecdn.com/ss_thumbnails/limes-230715143201-c4a8e58a-thumbnail.jpg?width=640&height=640&fit=bounds",
+        "productPrice": 0
+      }
+      
+    ]
+  }
+  
+  
+]
