@@ -172,6 +172,114 @@
       
     ]
   }
-  
-  
+  ,
+    {
+    "productId": "56908???//8907",
+    "productName": "interior design & renovation solutions",
+    "productImage": "https://t4.ftcdn.net/jpg/04/23/20/87/360_F_423208764_8oPHqm3SZ3PvRTHhyGCIe3rwg60gaBGY.jpg",
+    "productColor": [
+      {
+        "name": "gypsum ceilings",
+        "productImage": "https://i.etsystatic.com/18000923/r/il/ab1d6f/5208674704/il_570xN.5208674704_1xrq.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "painting",
+        "productImage": "https://thumbs.dreamstime.com/b/building-contractor-painting-grey-wall-roller-brush-copy-space-text-construction-worker-renovating-house-back-view-young-185899644.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "flooring",
+        "productImage": "https://handyzconceptz.com/wp-content/uploads/2025/04/laminate-flooring.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "glass partitioning",
+        "productImage": "https://www.glasspartitioninguk.co.uk/wp-content/uploads/2024/02/Glass-Partitioning-Fitting.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "kitchen fittings",
+        "productImage": "https://primehouseinteriors.co.ke/wp-content/uploads/2023/12/pf-71.jpg",
+        "productPrice": 0
+      }
+      ,
+            {
+        "name": "wardropes",
+        "productImage": "https://www.innovative-designs.co.uk/wp-content/uploads/2024/08/fitted-wardrobe-scaled-e1723319284634.webp",
+        "productPrice": 0
+      }
+    ]
+  },
+    {
+    "productId": "9lkj7896%%%po",
+    "productName": "cleaning & maintainance",
+    "productImage": "https://cdn.prod.website-files.com/58e984c0a0e2f91e7c795e7a/63614954fcf607288a862886_cleaning-items-900x500.jpg",
+    "productColor": [
+      {
+        "name": "watertank cleaning",
+        "productImage": "https://bestcarecleaning.co.ke/wp-content/uploads/2024/04/water-tank-cleaning-services-nairobi.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "fuel tank cleaning",
+        "productImage": "https://b3871678.smushcdn.com/3871678/wp-content/uploads/2024/09/image-32.png?lossy=2&strip=1&webp=1",
+        "productPrice": 0
+      },
+            {
+        "name": "drainage cleaning",
+        "productImage": "https://lenoxplumbing.com/wp-content/uploads/2021/09/1-sewer-line-drain-cleaning-card-1.png",
+        "productPrice": 0
+      },
+            {
+        "name": "gutter cleaning",
+        "productImage": "https://www.plymouthrock.com/wp-content/uploads/2021/01/hero-resc-cleaning-guttes-640x350-1.jpg",
+        "productPrice": 0
+      }
+      
+    ]
+  },
+    {
+    "productId": "nbjhi89065784-oium909",
+    "productName": "Fabrication & Welding",
+    "productImage": "https://t3.ftcdn.net/jpg/18/74/31/08/360_F_1874310833_dCsqQ6sXmeuJAdLHO62ejK16g05rntsE.jpg",
+    "productColor": [
+      {
+        "name": "gates",
+        "productImage": "https://i.etsystatic.com/18000923/r/il/ab1d6f/5208674704/il_570xN.5208674704_1xrq.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "doors",
+        "productImage": "https://5.imimg.com/data5/SQ/SE/YE/SELLER-16652618/iron-safety-door-500x500.jpg",
+        "productPrice": 0
+      },
+            {
+        "name": "windows",
+        "productImage": "https://pictures-kenya.jijistatic.com/41864593_NjIwLTQ5Ny1hMWYyYWQxZWUx.webp",
+        "productPrice": 0
+      },
+            {
+        "name": "gazebos",
+        "productImage": "https://image.made-in-china.com/202f0j00JnWQugdthHpc/Welding-Tent-Welding-Canopy-Welding-Gazebo-Welding-Pavilion.webp",
+        "productPrice": 0
+      },
+            {
+        "name": "swings",
+        "productImage": "https://thumbs.dreamstime.com/b/old-swings-playground-three-old-swings-made-weld-metal-pieces-chains-playground-play-games-kids-hanging-272698861.jpg",
+        "productPrice": 0
+      }
+      ,
+            {
+        "name": "canopies",
+        "productImage": "https://horstmanwelding.com/wp-content/uploads/2023/06/External-Canopy-for-a-Commercial-Building-3-Horstman-Welding-Missouri.jpeg",
+        "productPrice": 0
+      } ,
+            {
+        "name": "shades",
+        "productImage": "https://theknowledgeablefrenchman.com/wp-content/uploads/2023/12/HSF1_1.jpg",
+        "productPrice": 0
+      }
+    ]
+  }
 ]

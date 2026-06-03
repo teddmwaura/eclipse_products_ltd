@@ -4,7 +4,7 @@ const products = [{
     description: 'Building strong, safe, and reliable infrastructure with precision, quality, and innovation.'
 },
 {
-    image:'https://media.istockphoto.com/id/1866117196/photo/old-engine-oil-bottle-old-black-lubricant-spilled-used-car-engine.jpg?s=612x612&w=0&k=20&c=Dw-mp4b9Rah82qN9d_Yw5sROYWLr9fXSwviWFBKLMuE=',
+    image:'https://thumbs.dreamstime.com/b/planting-trees-silver-coin-hands-two-completely-separated-white-background-153528987.jpg',
     description: 'Providing sustainable environmental services that protect communities, conserve resources, and support a greener future.'
 },
 {

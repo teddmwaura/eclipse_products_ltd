@@ -21,7 +21,7 @@ function appendToMainWebsite(){
     
     allProducts.forEach((product) =>{
         accumulatorPattern += `
-        <div class="p-4 product-card w-full ">
+        <div class=" product-card w-full ">
   <div class="bg-[#efefef] flex justify-center items-center">
     <img 
       src="${product.productImage}" 
